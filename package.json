@@ -1,0 +1,1 @@
+{"type":"module","scripts":{"publish-netlify":"netlify deploy --prod","build-netlify":"netlify build","dev-netlify":"netlify dev","dev":"nodemon ./netlify/functions/api.mjs"},"dependencies":{"express":"^4.19.2","serverless-http":"^3.2.0"}}
